@@ -10,7 +10,7 @@ The pbjective of this project is to build and train a CNN which takes in a face 
 
 ## Network Architecture
 
-The CNN used is modeled after the one found in <a href=""https://arxiv.org/pdf/1710.00977.pdf><u>this</u></a> paper. The CNN consists of 4 convolutional layers followed by three fully connected layers. The convolutional layers are sandwiched by random dropput and max pooling layers. The table above follows the network architecture from input to output (the image size input is 224x224x1.
+The CNN used is modeled after the one found in <a href="https://arxiv.org/pdf/1710.00977.pdf"><u>this</u></a> paper. The CNN consists of 4 convolutional layers followed by three fully connected layers. The convolutional layers are sandwiched by random dropput and max pooling layers. The table above follows the network architecture from input to output (the image size input is 224x224x1.
 
 <table style="width:100%">
   <tr>
